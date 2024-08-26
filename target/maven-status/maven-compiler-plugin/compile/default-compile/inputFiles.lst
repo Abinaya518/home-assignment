@@ -1,0 +1,12 @@
+C:\Users\abisreed\Desktop\GenAI\HealthCare\demo (3)\demo\src\main\java\com\ps\healthcare\controller\ERHServiceController.java
+C:\Users\abisreed\Desktop\GenAI\HealthCare\demo (3)\demo\src\main\java\com\ps\healthcare\exception\GlobalExceptionHandler.java
+C:\Users\abisreed\Desktop\GenAI\HealthCare\demo (3)\demo\src\main\java\com\ps\healthcare\model\PatientRecord.java
+C:\Users\abisreed\Desktop\GenAI\HealthCare\demo (3)\demo\src\main\java\com\ps\healthcare\model\UpdatePatientRecordRequest.java
+C:\Users\abisreed\Desktop\GenAI\HealthCare\demo (3)\demo\src\main\java\com\ps\healthcare\repository\PatientRecordRepository.java
+C:\Users\abisreed\Desktop\GenAI\HealthCare\demo (3)\demo\src\main\java\com\ps\healthcare\service\KafkaConsumerService.java
+C:\Users\abisreed\Desktop\GenAI\HealthCare\demo (3)\demo\src\main\java\com\ps\healthcare\service\KafkaProducerService.java
+C:\Users\abisreed\Desktop\GenAI\HealthCare\demo (3)\demo\src\main\java\com\ps\healthcare\service\PatientRecordInterface.java
+C:\Users\abisreed\Desktop\GenAI\HealthCare\demo (3)\demo\src\main\java\com\ps\healthcare\service\PatientRecordService.java
+C:\Users\abisreed\Desktop\GenAI\HealthCare\demo (3)\demo\src\main\java\com\ps\healthcare\UseCaseApplication.java
+C:\Users\abisreed\Desktop\GenAI\HealthCare\demo (3)\demo\src\main\java\com\ps\healthcare\utility\KafkaConfig.java
+C:\Users\abisreed\Desktop\GenAI\HealthCare\demo (3)\demo\src\main\java\com\ps\healthcare\utility\ValidateRequestWorker.java
